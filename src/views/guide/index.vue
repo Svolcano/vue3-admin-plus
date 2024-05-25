@@ -12,7 +12,7 @@
 
 <script setup>
 import Driver from 'driver.js'
-import 'driver.js/dist/driver.min.css'
+// import 'driver.js/dist/driver.min.css' //no use
 import { QuestionFilled } from '@element-plus/icons-vue'
 import { useI18n } from 'vue-i18n'
 import steps from './steps'
